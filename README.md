@@ -1,5 +1,6 @@
 # Blog-Project
-Blog Project using node js, tools:[ axios, ejs , express js ]
+Blog Project using node js, 
+tools:[ axios, ejs , express js ]
 # Description
 Blog Project (Basic CRUD Operation)
 The Blog Project is a (Partially) full-stack web application designed to provide a
@@ -12,9 +13,15 @@ Tecnical Stacks used - Node.js,Axios,Javascript,HTML and CSS
 # Execution
 
 Go to terminal execute following comments to local run the project :
- 1.Git clone 
- 1.npm install 
 
-Split Two terminal 
- 1.node index.js(local)
- 2.node server.js
+ 1.Git clone https://github.com/LOGA-KRISHNA/Blog-Project.git
+ 
+ 2.cd Blog-Project
+ 
+ 3.npm install 
+
+Split Two terminal [Make sure you navigate to Blog-Project Folder]
+
+ 1.node index.js((http://localhost:4000))
+ 
+ 2.node server.js(http://localhost:3000)
